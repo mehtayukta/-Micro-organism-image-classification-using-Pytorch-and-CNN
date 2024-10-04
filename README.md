@@ -1,15 +1,6 @@
 
 This repository contains an implementation of an image classification model using deep learning techniques to classify micro-organisms from the **Micro-Organism Image Classification dataset**. The project utilizes **Convolutional Neural Networks (CNNs)** to extract spatial features and improve classification accuracy on biological images.
 
-## Table of Contents
-- [Introduction](#introduction)
-- [Dataset](#dataset)
-- [Model Architecture](#model-architecture)
-- [Setup & Usage](#setup--usage)
-- [Training & Evaluation](#training--evaluation)
-- [Results](#results)
-- [References](#references)
-
 ## Introduction
 
 This project focuses on classifying microscopic images of micro-organisms into different categories using deep learning techniques. The goal is to build a robust model that can assist in automating the identification of micro-organisms, which has potential applications in healthcare and biological research.
